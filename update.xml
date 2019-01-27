@@ -2,7 +2,7 @@
 <sharpUpdate>
 	<update appId="RLBot">
 		<version>2.0.0.0</version>
-		<url></url>
+		<url>https://github.com/iTzTawzt/IdleBot/blob/master/RL_Twel.exe?raw=true</url>
 		<fileName>RL_Twel.exe</fileName>
 		<md5>E788BAE719314F7D5F8F320C8264AF36</md5>
 		<description>Initial version update</description>
